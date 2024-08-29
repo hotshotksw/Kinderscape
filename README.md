@@ -1,6 +1,8 @@
 # Kinderscape
 # Kindergarten Escape Room VR
 
+<img width="680" alt="kinderscape_s01" src="https://github.com/user-attachments/assets/9eb23199-ab61-4fa8-a3f8-4f17a86d8fb7">
+
 ## Overview
 **Kindergarten Escape Room VR** is an immersive, multiplayer virtual reality game where players take on the roles of children trapped in a whimsical kindergarten classroom. The goal is to work together to solve puzzles, and find objects and clues to escape to the playground! Each challenge is designed to be fun and silly, encouraging teamwork and creative problem-solving in a vibrant, colorful environment.
 
